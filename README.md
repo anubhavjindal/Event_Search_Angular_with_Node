@@ -1,6 +1,7 @@
 # Event Search
 
-The project is live and deployed on Google Cloud Platform. It can be accessed at the link below:
+The project is live and deployed on Google Cloud Platform. It can be accessed at the link below: 
+
 http://csci-hw8-222600.appspot.com/
 
 ## Technologies used
